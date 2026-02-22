@@ -7,7 +7,7 @@
     <h3>📖 Contact 📖</h3>
     <p>Feel free to reach out me in social media below</p>
     <div>
- <a href="https://www.linkedin.com/in/muhammad-aulia-muzzaki-nugraha-a1176728b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+ <a href="https://www.linkedin.com/in/aulia-muzzaki">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/z.aky_/">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
