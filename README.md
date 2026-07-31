@@ -12,3 +12,13 @@
 <a href="https://www.instagram.com/z.aky_/">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
+
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aulky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Muhammad Aulia Muzzaki Nugraha's GitHub stats" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=aulky&?username=aulky&layout=compact&langs_count=8&theme=dracula" alt="Muhammad Aulia Muzzaki Nugraha's top languages" />
+</p>
+
+---
